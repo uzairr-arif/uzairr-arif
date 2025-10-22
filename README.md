@@ -1,12 +1,8 @@
 <!-- 🌱 Brand Banner with Your Green -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009F4D&height=200&section=header&text=Welcome%20to%20Uzair's%20World!&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=009F4D&height=200&section=header&text=Uzair%20%7C%20Crafting%20Solutions%20For%20Your%20Business&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<!-- 🌞 Light & 🌙 Dark Theme Info -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Light%20%26%20Dark-%23474151?style=for-the-badge&logo=github&logoColor=white" alt="Theme badge"/>
-</p>
 
 <!-- 👤 Name and Subtitle -->
 <h1 align="center" style="color:#00B140;">✨ Hi, I'm <span style="color:#009F4D;">Uzair Arif</span> 💻</h1>
