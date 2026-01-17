@@ -1,6 +1,6 @@
 <!-- 🌱 Brand Banner with Your Green -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009F4D&height=200&section=header&text=Uzair%20%7C%20Crafting%20Solutions%20For%20Your%20Business&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=009F4D&height=200&section=header&text=Crafting%20Solutions%20For%20Your%20Business&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
 
