@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://uzairarif.me"><img src="https://img.shields.io/badge/Portfolio-Visit-0f9f6e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-uzair-arif-cs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-uzair-arif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/uzairr-arif?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 </p>
 
@@ -129,7 +129,7 @@ I like building tools that solve a specific problem, explain their output clearl
 I'm open to useful conversations about full-stack development, developer tools, web security, freelance projects, and relevant full-time opportunities.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-uzair-arif-cs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-uzair-arif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/uzairr-arif"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   <a href="https://uzairarif.me"><img src="https://img.shields.io/badge/Portfolio-Visit-0f9f6e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 </p>
